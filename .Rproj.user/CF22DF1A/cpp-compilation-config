@@ -1,0 +1,11 @@
+{
+    "args": [
+        "-IC:/Users/Sourajit/AppData/Local/R/win-library/4.2/Rcpp/include",
+        "-nostdinc"
+    ],
+    "pch": "Rcpp",
+    "is_cpp": true,
+    "hash": "1656216722",
+    "compiler": "14695981039346656037",
+    "rversion": "4.2.1"
+}
